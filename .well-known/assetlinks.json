@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.sebaandradacell.talkpics",
+      "sha256_cert_fingerprints": [
+        "4D:31:41:07:76:17:E5:90:68:F3:83:34:E7:87:EC:55:09:B6:47:5D:31:AC:A6:EB:3B:72:D1:A3:20:3F:22:6B"
+      ]
+    }
+  }
+]
